@@ -9,7 +9,7 @@ arXiv-PDF-Translator는 연구자, 학계 종사자 및 기관을 위한 효율�
 
 이 프로젝트의 사용 방법에 대한 자세한 설명은 아래 동영상을 참고하세요:
 
-[[동영상 링크 삽입 위치](https://github.com/GENEXIS-AI/arXiv-PDF-Translator/blob/main/demo.mp4)]
+![사용법](https://github.com/GENEXIS-AI/arXiv-PDF-Translator/blob/main/demo.mp4)]
 
 ## 기능
 
