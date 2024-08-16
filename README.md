@@ -5,6 +5,12 @@ arXiv-PDF-Translator는 arXiv 논문을 다운로드하고, LaTeX 소스 파일�
 
 arXiv-PDF-Translator는 연구자, 학계 종사자 및 기관을 위한 효율적이고 신뢰성 높은 도구로, 빠르고 정확한 논문 번역을 제공합니다.
 
+## 동영상 가이드
+
+이 프로젝트의 사용 방법에 대한 자세한 설명은 아래 동영상을 참고하세요:
+
+[[동영상 링크 삽입 위치](https://github.com/GENEXIS-AI/arXiv-PDF-Translator/blob/main/demo.mp4)]
+
 ## 기능
 
 - 자동 워크플로우: arXiv 논문의 ID 또는 URL을 입력하면 논문 다운로드부터 번역, PDF 생성까지 모든 과정을 자동으로 처리합니다.
@@ -77,11 +83,6 @@ Enter ArXiv ID or URL:
 
 여기에 arXiv 논문 ID 또는 URL을 입력하면 번역 및 PDF 생성이 자동으로 진행됩니다.
 
-## 동영상 가이드
-
-이 프로젝트의 사용 방법에 대한 자세한 설명은 아래 동영상을 참고하세요:
-
-[동영상 링크 삽입 위치]
 
 ## 주의사항
 
