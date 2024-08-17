@@ -41,7 +41,7 @@ arXiv-PDF-Translator는 연구자, 학계 종사자 및 기관을 위한 효율�
 패키지는 아래 명령어로 설치할 수 있습니다:
 
 ```bash
-pip install requests beautifulsoup4 openai bs4
+pip install requests beautifulsoup4 openai bs4 lxml
 ```
 
 ### LaTeX 설치
